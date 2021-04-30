@@ -12,7 +12,7 @@ namespace Calculadora_de_idade
 
             Console.Write("Digite o seu ano de nascimento: ");
             anoIdade = int.Parse(Console.ReadLine());
-            anoAtual = System.DateTime.Now.Year;
+            anoAtual = DateTime.Now.Year;
 
             idade = anoAtual - anoIdade;
             semanas = idade * 52;
