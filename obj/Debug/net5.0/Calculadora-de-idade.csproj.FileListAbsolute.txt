@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-de-idade\bin\Debug\net5.0\Calculadora-de-idade.exe
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-de-idade\bin\Debug\net5.0\Calculadora-de-idade.deps.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-de-idade\bin\Debug\net5.0\Calculadora-de-idade.runtimeconfig.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-de-idade\bin\Debug\net5.0\Calculadora-de-idade.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-de-idade\bin\Debug\net5.0\Calculadora-de-idade.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-de-idade\bin\Debug\net5.0\ref\Calculadora-de-idade.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-de-idade\bin\Debug\net5.0\Calculadora-de-idade.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-de-idade\obj\Debug\net5.0\Calculadora-de-idade.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-de-idade\obj\Debug\net5.0\Calculadora-de-idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-de-idade\obj\Debug\net5.0\Calculadora-de-idade.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-de-idade\obj\Debug\net5.0\Calculadora-de-idade.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-de-idade\obj\Debug\net5.0\Calculadora-de-idade.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-de-idade\obj\Debug\net5.0\Calculadora-de-idade.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-de-idade\obj\Debug\net5.0\ref\Calculadora-de-idade.dll
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-de-idade\obj\Debug\net5.0\Calculadora-de-idade.pdb
+C:\Users\Usuario\Desktop\Senai\Exercícios\C# exercícios\Calculadora-de-idade\obj\Debug\net5.0\Calculadora-de-idade.genruntimeconfig.cache
